@@ -10,8 +10,12 @@ The study was based on the monthly observation of 49 trees of Ligustrum lucidum 
 Important notes:
 * The table "phenophases.txt" show the frequencies of each phenophase through the year. It is used just for Circular analyses.
 * The tables "leaf_flushing.txt", "flower_budding.txt", "flowering.txt", "unripe_fruits.txt" and "ripe_fruits.txt" show the frequencies of the intensity of each phenophase thought the year. These tables are meant to create the graphs.
+* The table "data_log.txt" has the environmental variables log transformed in order to reduce the impact of different scales in the analyses.
 
 Summary
-  - tables to be used in the scripts (.txt extension)
+  - tables to be used in the Circular analyses of seasonality ("phenophases".txt extension)
   - script with the Circular analyses and graphs (phenology_Exp.R)
   - graphs of each phenophase (.pdf extension with the names of the phenophases)
+  - table with the Fournier Index of each phenophase and the environmental variables from September 2015 to August 2017 (data_log.txt)
+  - "data_log.txt" guide (data_log_guide.txt)
+  - script with the model analyses for each phenophase (phenomodel.R)
