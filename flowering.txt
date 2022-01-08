@@ -1,0 +1,13 @@
+mes 1 2 3 4
+jan 65 4 2 2
+fev 16 2 0 0
+mar 4 0 0 0
+abr 4 0 0 0
+mai 8 0 0 0
+jun 16 0 0 0
+jul 8 0 0 0
+ago 6 0 0 0
+set 8 0 0 0
+out 10 0 0 0
+nov 18 4 0 0
+dez 45 8 6 2

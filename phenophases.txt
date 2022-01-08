@@ -1,0 +1,13 @@
+months angles leaf_flush flower_budding flowering unripe_fruits ripe_fruits
+Jan 0 24 23 34 37 7
+Feb 30 24 5 8 44 10
+Mar 60 34 2 1 44 11
+Apr 90 16 4 1 44 23
+May 120 11 10 4 21 41
+Jun 150 3 9 10 15 41
+Jul 180 1 6 7 13 42
+Aug 210 6 6 5 11 43
+Sep 240 20 8 3 6 32
+Oct 270 40 22 5 6 25
+Nov 300 43 40 13 8 12
+Dec 330 33 43 28 11 7

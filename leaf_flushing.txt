@@ -1,0 +1,13 @@
+month 1 2 3 4
+jan 47 2 2 4
+feb 47 2 0 2
+mar 69 2 2 2
+apr 33 0 0 0
+may 22 2 0 0
+jun 10 0 0 0
+jul 6 0 0 0
+aug 2 0 0 0
+sep 31 4 4 0
+oct 57 14 10 4
+nov 67 8 6 8
+dec 63 4 2 2
