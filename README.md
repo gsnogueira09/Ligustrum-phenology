@@ -23,4 +23,4 @@ Summary
 
 # Main conclusions:
   * All analyzed phenophases exhibit a seasonal pattern.
-  * Day length from the current, and previous months as Temperature from 3 months earlier are the main environmental variables affecting Ligustrum's phenology.
+  * Day length from the current, and previous months are the main environmental variables affecting Ligustrum's phenology.
