@@ -1,0 +1,23 @@
+brot -> leaf flush
+botao -> flowering bud
+antese -> flowering
+frutoi -> unripe fruits
+frutom -> ripe fruits
+RainH -> Historical rainfall
+Rain1 -> Rainfall from the previous month
+Rain2 -> Rainfall from two previous month
+Rain3 -> Rainfall from three previous month
+TempH -> Historical temperature
+Temp -> Temperature
+Temp1 -> Temperature from the previous month
+Temp2 -> Temperature from two previous month
+Temp3 -> Temperature from three previous month
+SIRH -> Historical solar irradiance
+SIR -> Solar irradiance
+SIR1 -> Solar irradiance from the previous month
+SIR2 -> Solar irradiance from two previous month
+SIR3 -> Solar irradiance from three previous month
+DL -> Day length
+DL1 -> Day length from the previous month
+DL2 -> Day length from two previous month
+DL3 -> Day length from three previous month
