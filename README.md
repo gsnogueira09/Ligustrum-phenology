@@ -22,6 +22,6 @@ Summary
   - script with the model analyses for each phenophase (pheno_model.R)
   - tables with the analyses of the results (analyses_result_table.pdf)
 
-## Main conclusions:
+### Main conclusions:
   * All analyzed phenophases exhibit a seasonal pattern.
   * Day length from the current, and previous months are the main environmental variables affecting Ligustrum's phenology.
