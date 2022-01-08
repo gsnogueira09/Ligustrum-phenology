@@ -13,7 +13,7 @@ Important notes:
 * The table "data_log.txt" has the environmental variables log transformed in order to reduce the impact of different scales in the analyses.
 
 Summary
-  - tables to be used in the Circular analyses of seasonality ("phenophases".txt extension)
+  - tables to be used in the Circular analyses of seasonality ("name_of_the_phenophase".txt extension)
   - script with the Circular analyses and graphs (phenology_Exp.R)
   - graphs of each phenophase (.pdf extension with the names of the phenophases)
   - table with the Fournier Index of each phenophase and the environmental variables from September 2015 to August 2017 (data_log.txt)
