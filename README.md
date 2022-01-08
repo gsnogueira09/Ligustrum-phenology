@@ -18,4 +18,4 @@ Summary
   - graphs of each phenophase (.pdf extension with the names of the phenophases)
   - table with the Fournier Index of each phenophase and the environmental variables from September 2015 to August 2017 (data_log.txt)
   - "data_log.txt" guide (data_log_guide.txt)
-  - script with the model analyses for each phenophase (phenomodel.R)
+  - script with the model analyses for each phenophase (pheno_model.R)
