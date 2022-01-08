@@ -1,5 +1,5 @@
 brot -> leaf flush
-botao -> flowering bud
+botao -> flowering budding
 antese -> flowering
 frutoi -> unripe fruits
 frutom -> ripe fruits
