@@ -12,5 +12,6 @@ Important notes:
 * The tables "leaf_flushing.txt", "flower_budding.txt", "flowering.txt", "unripe_fruits.txt" and "ripe_fruits.txt" show the frequencies of the intensity of each phenophase thought the year. These tables are meant to create the graphs.
 
 Summary
-
-
+  - tables to be used in the scripts (.txt extension)
+  - script with the Circular analyses and graphs (phenology_Exp.R)
+  - graphs of each phenophase (.pdf extension with the names of the phenophases)
